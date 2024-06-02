@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmCrearUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEditarTarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEditarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCrearMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCrearTarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
